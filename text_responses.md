@@ -10,6 +10,8 @@ e)
 
 ## Questão 2
 
+Respostas aqui.
+
 ## Questão 3
 
 ## Questão 4
