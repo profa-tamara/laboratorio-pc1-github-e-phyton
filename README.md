@@ -1,4 +1,36 @@
-# Atividade 1: Aprendendo a usar o GitHub e Fundamentos de Phyton
+# [AT1] Atividade 1: Aprendendo a usar o GitHub e Fundamentos de Phyton
+
+O objetivo deste exercício é proporcionar familiarização com o GitHub, que é uma plataforma de hospedagem para projetos, exercícios e códigos em **versões diferentes**.
+
+Esta atividade poderá ser feita individualmente ou em duplas.
+Caso seja feita em duplas, apenas uma entrega será necessária.
+
+__Valor: 5 pontos__
+
+## Antes de começar
+
+- Crie uma branch a partir de `main`, que conste a sigla da disciplina, a sigla da atividade e o nome/sobrenome da dupla (caso seja em dupla).
+__Exemplo de nome de branch__: `LABPC1-AT1-ana-carlos`
+
+Depois da criação da branch, a página será atualizada. Aguarde a atualização e confira se você está na branch criada.
+
+- A atividade está dividida em duas partes: a **Parte I** contém questões discursivas e a **Parte II** contém práticas em Phyton.
+As respostas da Parte I devem ser inseridas no arquivo `text_responses.md`.
+As respostas da Parte II devem ser inseridas no arquivo `code_responses.py`.
+
+Para editar cada arquivo, basta clicar no nome dele e, na tela seguinte, clicar o ícone do lápis, que fica no canto direito.
+**Dica:** como a Parte II envolve código, é recomendado o uso do software `Visual Studio Code`, que está instalado no Windows. Você pode usar o programa instalado para criar os códigos e testá-los. Estando tudo certo, basta copiar o código já pronto e colar no arquivo `code_responses.py`.
+
+Para salvar as modificações, você deve fazer um **Commit**.
+
+⚠️ Caso trabalhe com o uso do `github.dev`:
+Clique no ícone lateral do GitHub.dev, dê um nome ao commit e clique em **Commit & Push**
+
+- Para entregar a sua atividade, abra um **Pull Request** comparando a branch criada com a `main`.
+No nome do Pull Request, use a sigla da disciplina, o nome do exercício e o nome da dupla (se for em dupla).
+_Exemplo_: [LABPC1] Atividade 1 - Ana Silva e Carlos Santos
+
+<hr>
 
 ## Exercícios Parte I
 
