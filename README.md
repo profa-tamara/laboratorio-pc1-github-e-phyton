@@ -9,26 +9,50 @@ __Valor: 5 pontos__
 
 ## Antes de começar
 
+<details>
+  <summary><strong>Prepare o ambiente</strong></summary><br />
+
 - Crie uma branch a partir de `main`, que conste a sigla da disciplina, a sigla da atividade e o nome/sobrenome da dupla (caso seja em dupla).
 __Exemplo de nome de branch__: `LABPC1-AT1-ana-carlos`
 
-Depois da criação da branch, a página será atualizada. Aguarde a atualização e confira se você está na branch criada.
+- Depois da criação da branch, a página será atualizada. Aguarde a atualização e confira se você está na branch criada.
 
-- A atividade está dividida em duas partes: a **Parte I** contém questões discursivas e a **Parte II** contém práticas em Phyton.
-As respostas da Parte I devem ser inseridas no arquivo `text_responses.md`.
-As respostas da Parte II devem ser inseridas no arquivo `code_responses.py`.
+</details>
+
+<details>
+  <summary><strong>Estrutura da atividade: onde adicionar as respostas</strong></summary><br />
+
+- A atividade está dividida em duas partes: a **Parte I** contém questões discursivas e a **Parte II** contém práticas em Phyton.<br />
+As respostas da Parte I devem ser inseridas no arquivo `text_responses.md`.<br />
+As respostas da Parte II devem ser inseridas no arquivo `code_responses.py`.<br />
 
 Para editar cada arquivo, basta clicar no nome dele e, na tela seguinte, clicar o ícone do lápis, que fica no canto direito.
+
 **Dica:** como a Parte II envolve código, é recomendado o uso do software `Visual Studio Code`, que está instalado no Windows. Você pode usar o programa instalado para criar os códigos e testá-los. Estando tudo certo, basta copiar o código já pronto e colar no arquivo `code_responses.py`.
 
-Para salvar as modificações, você deve fazer um **Commit**.
+</details>
+
+<details>
+  <summary><strong>Salvando as modificações para preparar para o envio</strong></summary><br />
+
+- Para salvar as modificações, você deve fazer um **Commit**.
 
 ⚠️ Caso trabalhe com o uso do `github.dev`:
-Clique no ícone lateral do GitHub.dev, dê um nome ao commit e clique em **Commit & Push**
+- Clique no ícone lateral do GitHub.dev, dê um nome ao commit e clique em **Commit & Push**
+
+</details>
+
+<details>
+  <summary><strong>Criando um Pull Request e entregando a atividade</strong></summary><br />
 
 - Para entregar a sua atividade, abra um **Pull Request** comparando a branch criada com a `main`.
 No nome do Pull Request, use a sigla da disciplina, o nome do exercício e o nome da dupla (se for em dupla).
+
 _Exemplo_: [LABPC1] Atividade 1 - Ana Silva e Carlos Santos
+
+- Após a abertura do Pull Request, está pronto. Atividade feita e entregue!
+
+</details>
 
 <hr>
 
