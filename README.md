@@ -60,9 +60,15 @@ Faça um programa que leia o preço de um livro, que está armazenado em uma var
 
 <hr>
 
+⚠️ Lembre-se:
+
 ```code
-Atenção: ao concluir a atividade, você deve abrir um Pull Request no repositório do exercício, comparando a sua branch com a branch principal (main).
+
+- Ao concluir a atividade, você deve abrir um Pull Request no repositório do exercício, 
+comparando a sua branch com a branch principal (main).
+
 Como nome do Pull Request, insira: [LABPC1] Nome Sobrenome.
+
 Após a criação do Pull Request, nada mais precisa ser feito. O seu Pull Request é a sua entrega.
 ```
 
