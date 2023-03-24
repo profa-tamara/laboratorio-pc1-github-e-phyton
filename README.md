@@ -32,8 +32,6 @@ No GitHub, o que é um repositório? E uma _branch_, o que é?
 
 Qual a importância de abrir um _Pull Request_ em um repositório?
 
-<hr>
-
 ## Exercícios Parte II
 
 **Programando em Phyton**
@@ -61,3 +59,11 @@ Faça um programa que leia o preço de um livro, que está armazenado em uma var
 Faça um programa que leia o preço de um livro, que está armazenado em uma variável, e calcule o seu preço final, com 30% de desconto.
 
 <hr>
+
+```code
+Atenção: ao concluir a atividade, você deve abrir um Pull Request no repositório do exercício, comparando a sua branch com a branch principal (main).
+Como nome do Pull Request, insira: [LABPC1] Nome Sobrenome.
+Após a criação do Pull Request, nada mais precisa ser feito. O seu Pull Request é a sua entrega.
+```
+
+Dito isso, bom descanso! 
