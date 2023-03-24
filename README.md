@@ -66,4 +66,4 @@ Como nome do Pull Request, insira: [LABPC1] Nome Sobrenome.
 Após a criação do Pull Request, nada mais precisa ser feito. O seu Pull Request é a sua entrega.
 ```
 
-Dito isso, bom descanso! 
+Dito isso, bom descanso! ☺️
