@@ -26,6 +26,8 @@ O que é a linguagem _markdown_?
 
 No GitHub, o que é um repositório? E uma _branch_, o que é?
 
+<hr>
+
 ### Questão 4
 
 Qual a importância de abrir um _Pull Request_ em um repositório?
