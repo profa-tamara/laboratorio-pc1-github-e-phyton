@@ -1,6 +1,4 @@
-# Atividade 1
-
-## Aprendendo a usar o GitHub e Fundamentos de Phyton
+# Atividade 1: Aprendendo a usar o GitHub e Fundamentos de Phyton
 
 ## Exercícios Parte I
 
@@ -10,11 +8,11 @@
 
 Explique porque o Phyton é:
 
-a) uma linguagem interpretada.
-b) uma linguagem de alto nível.
-c) uma linguagem orientada a objetos.
-d) uma linguagem dinamicamente tipada.
-e) uma linguagem _open source_.
+a) uma linguagem interpretada.<br>
+b) uma linguagem de alto nível.<br>
+c) uma linguagem orientada a objetos.<br>
+d) uma linguagem dinamicamente tipada.<br>
+e) uma linguagem _open source_.<br>
 
 <hr>
 
