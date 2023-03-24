@@ -45,18 +45,37 @@ Faça um programa que leia duas variáveis com valores numéricos declarados e f
 ### Questão 6
 
 Faça um programa que leia o preço de um livro, que está armazenado em uma variável, e calcule o seu preço final, com 30% de desconto.
+Imprima o preço final na tela com o seguinte sintaxe:
+
+`O preço do livro com desconto é: R$ x.xx`
 
 <hr>
 
 ### Questão 7
 
-Faça um programa que leia o preço de um livro, que está armazenado em uma variável, e calcule o seu preço final, com 30% de desconto.
+Faça um programa realize os seguintes passos:
+
+- lê uma dada temperatura em _Fahrenheit_, armazenada em uma variável;
+- faça a conversão desse _valor_ para graus Celsius;
+- imprima o resultado dessa conversão na tela.
+
+**Dica:** A fórmula de conversão de Fahrenheit (F) para Celsius é:
+
+`C = ( ( F - 32 ) * 5 ) / 9.`
+
+**Exemplo:** 100 Fahrenheit = 37,77 Celsius.
 
 <hr>
 
 ### Questão 8
 
-Faça um programa que leia o preço de um livro, que está armazenado em uma variável, e calcule o seu preço final, com 30% de desconto.
+Elabore um programa armazene, em variáveis, cada uma das comparações abaixo e imprima-as na tela.
+Cada uma deverá retornar `true` (verdadeiro) ou `false`, ou seja, valores **booleanos**.
+
+- '99' é igual a 99?
+- 25 é maior do que 39?
+- 0.9 é menor ou igual a 0.8?
+- 71 é maior ou igual a 60?
 
 <hr>
 
