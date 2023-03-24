@@ -26,9 +26,9 @@ __Exemplo de nome de branch__: `LABPC1-AT1-ana-carlos`
 As respostas da Parte I devem ser inseridas no arquivo `text_responses.md`.<br />
 As respostas da Parte II devem ser inseridas no arquivo `code_responses.py`.<br />
 
-Para editar cada arquivo, basta clicar no nome dele e, na tela seguinte, clicar o ícone do lápis, que fica no canto direito.
+- Para editar cada arquivo, basta clicar no nome dele e, na tela seguinte, clicar o ícone do lápis, que fica no canto direito.
 
-**Dica:** como a Parte II envolve código, é recomendado o uso do software `Visual Studio Code`, que está instalado no Windows. Você pode usar o programa instalado para criar os códigos e testá-los. Estando tudo certo, basta copiar o código já pronto e colar no arquivo `code_responses.py`.
+- **Dica:** como a Parte II envolve código, é recomendado o uso do software `Visual Studio Code`, que está instalado no Windows. Você pode usar o programa instalado para criar os códigos e testá-los. Estando tudo certo, basta copiar o código já pronto e colar no arquivo `code_responses.py`.
 
 </details>
 
@@ -37,7 +37,7 @@ Para editar cada arquivo, basta clicar no nome dele e, na tela seguinte, clicar 
 
 - Para salvar as modificações, você deve fazer um **Commit**.
 
-⚠️ Caso trabalhe com o uso do `github.dev`:
+- ⚠️ Caso trabalhe com o uso do `github.dev`:
 - Clique no ícone lateral do GitHub.dev, dê um nome ao commit e clique em **Commit & Push**
 
 </details>
@@ -48,7 +48,7 @@ Para editar cada arquivo, basta clicar no nome dele e, na tela seguinte, clicar 
 - Para entregar a sua atividade, abra um **Pull Request** comparando a branch criada com a `main`.
 No nome do Pull Request, use a sigla da disciplina, o nome do exercício e o nome da dupla (se for em dupla).
 
-_Exemplo_: [LABPC1] Atividade 1 - Ana Silva e Carlos Santos
+- _Exemplo_: [LABPC1] Atividade 1 - Ana Silva e Carlos Santos
 
 - Após a abertura do Pull Request, está pronto. Atividade feita e entregue!
 
