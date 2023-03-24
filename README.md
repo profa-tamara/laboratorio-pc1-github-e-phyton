@@ -1,1 +1,1 @@
-# laboratorio-pc1-github-e-phyton
+# Exercício 1: Aprendendo a usar o GitHub e Fundamentos de Phyton
