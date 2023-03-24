@@ -138,7 +138,6 @@ Cada uma deverá retornar `true` (verdadeiro) ou `false`, ou seja, valores **boo
 ⚠️ Lembre-se:
 
 ```code
-
 - Ao concluir a atividade, você deve abrir um Pull Request no repositório do exercício, 
 comparando a sua branch com a branch principal (main).
 
