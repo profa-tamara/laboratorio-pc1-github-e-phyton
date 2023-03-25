@@ -9,7 +9,7 @@ __Valor: 5 pontos__
 
 ## Antes de começar
 
-**Dica:** O processo descrito abaixo pode ser visto, por vídeo, [aqui]([https://exemplo.com/](https://drive.google.com/file/d/1MRpCvHsL3HXZu-GQBHJpEF7ZiEGSRYap/view]).
+**Dica:** O processo descrito abaixo pode ser visto, por vídeo, [aqui]([https://drive.google.com/file/d/1MRpCvHsL3HXZu-GQBHJpEF7ZiEGSRYap/view]).
 
 <details>
   <summary><strong>Prepare o ambiente</strong></summary><br />
