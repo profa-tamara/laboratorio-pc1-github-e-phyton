@@ -11,5 +11,6 @@ e) O código da linguagem Python é projetado para ser acessível publicamente, 
 ## Questão 2
 A linguagem markdown serve como maneira simples de organização de ideias, com ela é possível, por exemplo, grifar palavras.
 ## Questão 3
-
+Repositório é o ambiente principal, ele rastreia todas as mudanças feitas em arquivos no seu projeto. Já branch, são ramificações do repositório. 
 ## Questão 4
+É importante abrir um pull request, para impedir que alguma alteração seja feita, antes da prévia discussão desta. Uma espécie de comentário é adicionado ao código, sugerindo uma alteração. 
