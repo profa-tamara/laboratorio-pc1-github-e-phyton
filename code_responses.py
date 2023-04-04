@@ -39,7 +39,7 @@ print("C) 0.9 é menor ou igual a 0.8?")
 c = 0.9 <= 0.8
 
 print("D) 71 é maior ou igual a 60?")
-d = 71 > 60
+d = 71 >= 60
 
 print("---------------------------------")
 
