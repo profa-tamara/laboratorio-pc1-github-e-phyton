@@ -20,3 +20,7 @@ print(F, "Fahrenheit =", C, "Celsius")
 
 # Questão 8
 # Sua resposta a partir desta linha
+print('99'==99)
+print(25>39)
+print(0.9 <= 0.8)
+print(71>=60)
