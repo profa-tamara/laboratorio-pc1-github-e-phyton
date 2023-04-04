@@ -14,7 +14,9 @@ print("O preço do livro com desconto é: R$" ,livro * desc)
 
 # Questão 7
 # Sua resposta a partir desta linha
-
+F= 41
+C =  (F - 32)  * 5  / 9
+print(F, "Fahrenheit =", C, "Celsius")
 
 # Questão 8
 # Sua resposta a partir desta linha
