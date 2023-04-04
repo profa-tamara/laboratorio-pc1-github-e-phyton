@@ -14,8 +14,7 @@ print(sum)
 preço_inicial_livro = 50.00;
 preço_final_livro = preço_inicial_livro * 0.7;
 
-print("O preço do livro com desconto é: R$");
-print(preço_final_livro);
+print("O preço do livro com desconto é: R$" , preço_final_livro);
 
 
 
