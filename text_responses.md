@@ -2,13 +2,13 @@
 
 ## Questão 1
 
-a)O phyton é uma linguagem interpretada porque cada instrução é lida e traduzida linha por linha, ao invés de  todo de uma vez, no momento de ser executada.O
+a)O phyton é uma linguagem interpretada porque cada instrução é lida e traduzida linha por linha, ao invés de  todo de uma vez, no momento de ser executada.
 
 b)Phyton é uma linguagem de alto nível pois se aproxima mais com a linguagem humana do que com a linguagem de máquina, o que faz com que ele seja mais curto e fácil de ser entendido e tem mais chance de estar correto. 
 
 c)O Phyton é uma linguagem orientada a objetos porque, em Phyton, tudo é  um objeto (uma única coleçõ de dados e comportamentos), assim, a  programação  fornece um meio de estruturar programas para que propriedades e comportamentos sejam agrupados em objetos individuais. Por exemplo, um objeto pode representar uma pessoa com propriedades como nome, idade e endereço e comportamentos como caminhar, falar, respirar e correr. 
 
-d)Phyton é uma linguagem dinamicamente tipada pois os tipos das variáveis de um programa não são declarados no código e, portanto, checados em tempo de execução.Ou seja, o tipo de uma variável pode ser altera durante a execução do códig. 
+d)Phyton é uma linguagem dinamicamente tipada pois os tipos das variáveis de um programa não são declarados no código e, portanto, checados em tempo de execução.Ou seja, o tipo de uma variável pode ser altera durante a execução do código.
 
 e)Phyton é uma linguagem open source pois  é projetado para ser acessado  publicamente,  o que dá as pessoas a capacidade de  ve-lo, modifica-lo e distribui-lo conforme suas necessidades. 
 
