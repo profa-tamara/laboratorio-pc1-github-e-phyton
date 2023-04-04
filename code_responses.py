@@ -23,3 +23,21 @@ print ("A temperatura de {} °F equivale a {} °C".format (far , cel))
 
 # Questão 8
 # Sua resposta a partir desta linha
+
+a=99
+b=99
+c=25
+d=39
+e=0.9
+f=0.8
+g=71
+h=60
+i=a==b
+j=c>d
+k=e<f
+l=g>=h
+
+print("Resultado de i: ", i)
+print("Resultado de j: ", j)
+print("Resultado de k: ", k)
+print("Resultado de l: ", l)
