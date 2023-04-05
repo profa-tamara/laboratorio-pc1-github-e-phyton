@@ -1,7 +1,9 @@
 # Escreva as suas respostas neste arquivo.
 
 # Questão 5
-# Sua resposta a partir desta linha
+num1= 20   
+num2= 30
+print(num1 + num2)
 
 
 # Questão 6
