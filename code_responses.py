@@ -1,16 +1,19 @@
-# Escreva as suas respostas neste arquivo.
 
 # Questão 5
-# Sua resposta a partir desta linha
-
+a = 10;
+b = 5;
+print (a + b);
 
 # Questão 6
-# Sua resposta a partir desta linha
+livro = 100
+desconto= 1-0.3
+print ("O preço do livro com desconto é:" , livro * desconto)
 
 
 # Questão 7
-# Sua resposta a partir desta linha
-
+fahrenheit = 100
+celsius = ( ( fahrenheit - 32 ) * 5 ) / 9
+print
 
 # Questão 8
 # Sua resposta a partir desta linha
