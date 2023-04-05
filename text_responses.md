@@ -3,9 +3,13 @@
 ## Questão 1
 
 a) Phyton é uma linguagem interpretada pois passa por um programa que  primeiro lê o codigo fonte e depois o executa, diferentemente das linguagens compiladas.
+
 b) Phyton é uma linguagem de alto nivel pois sua sintaxe é  mais facil e intuitiva para o entendimento  humano.
+
 c) Phyton é orientada a objetos pois é um modelo de programação onde diversas classes possuem características que definem um objeto na vida real.
+
 d) Phyton é dinamicamente tipada pois durante a execução do código é possível alterar as variáveis.
+
 e) Phyton é um código projetado para ser acessado abertamente pelo público, para que qualquer um possa modifica-lo e distribui-lo.
 
 ## Questão 2
