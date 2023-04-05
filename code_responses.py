@@ -13,7 +13,7 @@ print ("O preço do livro com desconto é:" , livro * desconto)
 # Questão 7
 fahrenheit = 100
 celsius = ( ( fahrenheit - 32 ) * 5 ) / 9
-print
+print (celsius)
 
 # Questão 8
-# Sua resposta a partir desta linha
+
