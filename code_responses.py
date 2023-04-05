@@ -7,7 +7,7 @@ print(num1 + num2)
 
 
 # Questão 6
-precodolivro = 600
+precodolivro = 60
 desconto = 0.3
 print('O preço do livro com desconto é:')
 print((precodolivro) - desconto * precodolivro)
