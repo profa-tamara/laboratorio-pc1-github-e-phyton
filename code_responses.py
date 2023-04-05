@@ -1,6 +1,6 @@
 # questão 5 
 
-a = 10
+a = 15
 b = 15
 
 print(a + b)
