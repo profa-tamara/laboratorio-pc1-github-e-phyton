@@ -16,4 +16,7 @@ celsius = ( ( fahrenheit - 32 ) * 5 ) / 9
 print (celsius)
 
 # Questão 8
-
+print ("99" == 99)
+print (25 > 39)
+print ( 0.9 <= 0.8)
+print ( 71 >= 60)
