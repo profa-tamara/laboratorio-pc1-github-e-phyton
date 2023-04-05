@@ -15,8 +15,8 @@ print("O resultado de Número 1 + Número 2 é:", num1 + num2)
 livro = 60.00 #Valor do livro
 d = 30 #Valor do desconto
 desconto = (livro * d/100) #d/100, equivale a x% (nesse exemplo equivale a 30%)
-print("Livro:", livro)
-print("Desconto:", desconto)
+print("Livro: R$", livro)
+print("Desconto: R$", desconto)
 print("O preço final do livro com desconto é: R$", livro - desconto)
 
 # Questão 7
