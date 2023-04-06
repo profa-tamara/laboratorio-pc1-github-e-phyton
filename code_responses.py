@@ -1,7 +1,7 @@
 # questão 5 
 
 a = 15
-b = 15
+b = 16
 
 print(a + b)
 
