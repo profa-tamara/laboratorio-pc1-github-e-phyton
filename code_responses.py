@@ -1,16 +1,27 @@
-# Escreva as suas respostas neste arquivo.
+# questão 5 
 
-# Questão 5
-# Sua resposta a partir desta linha
+a = 15
+b = 16
 
+print(a + b)
 
-# Questão 6
-# Sua resposta a partir desta linha
+#questão 6
 
+livro = 100
 
-# Questão 7
-# Sua resposta a partir desta linha
+print("o preco do livro com desconto e :", livro * ((100/100) - (30/100)))
 
+#questão 7 
 
-# Questão 8
-# Sua resposta a partir desta linha
+temp_fah = 100
+
+temp_celcius = ( (temp_fah - 32) * 5) / 9
+
+print (temp_celcius)
+
+#questão 8 
+
+print('99' == 99)
+print(25 > 39)
+print(0.9 <= 0.8)
+print(71 >= 60)
