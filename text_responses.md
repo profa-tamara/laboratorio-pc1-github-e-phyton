@@ -15,4 +15,4 @@ A linguagem markdown funciona como um conjunto de ferramentas que permite a edi�
 Um repositório é a página principal do seu projeto, onde estão contidos dos os arquivos e revisões as revisões deles. Já uma branch é uma "cópia" de um repositório.
 
 ## Questão 4
-As pull requests são importantes para haver uma boa comunicação entre os editores do(s) arquivo(s) no momento de realizar alterações.
+As pull requests servem para pedir uma comparação da branch com a main e são importantes para haver uma boa comunicação entre os editores do(s) arquivo(s) no momento de realizar alterações.
